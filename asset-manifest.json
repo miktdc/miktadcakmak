@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/miktadc.github.io/static/css/main.20b791ce.css",
-    "main.js": "/miktadc.github.io/static/js/main.e3eb3570.js",
+    "main.css": "/miktadc.github.io/static/css/main.3a82df39.css",
+    "main.js": "/miktadc.github.io/static/js/main.5f7c4bd1.js",
     "static/js/787.0f15b36d.chunk.js": "/miktadc.github.io/static/js/787.0f15b36d.chunk.js",
-    "static/media/logo.svg": "/miktadc.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/miktadc.github.io/index.html",
-    "main.20b791ce.css.map": "/miktadc.github.io/static/css/main.20b791ce.css.map",
-    "main.e3eb3570.js.map": "/miktadc.github.io/static/js/main.e3eb3570.js.map",
+    "main.3a82df39.css.map": "/miktadc.github.io/static/css/main.3a82df39.css.map",
+    "main.5f7c4bd1.js.map": "/miktadc.github.io/static/js/main.5f7c4bd1.js.map",
     "787.0f15b36d.chunk.js.map": "/miktadc.github.io/static/js/787.0f15b36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20b791ce.css",
-    "static/js/main.e3eb3570.js"
+    "static/css/main.3a82df39.css",
+    "static/js/main.5f7c4bd1.js"
   ]
 }
