@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/miktadcakmak/static/css/main.edc3c1f2.css",
-    "main.js": "/miktadcakmak/static/js/main.ea36b719.js",
+    "main.js": "/miktadcakmak/static/js/main.9f913602.js",
     "index.html": "/miktadcakmak/index.html",
     "main.edc3c1f2.css.map": "/miktadcakmak/static/css/main.edc3c1f2.css.map",
-    "main.ea36b719.js.map": "/miktadcakmak/static/js/main.ea36b719.js.map"
+    "main.9f913602.js.map": "/miktadcakmak/static/js/main.9f913602.js.map"
   },
   "entrypoints": [
     "static/css/main.edc3c1f2.css",
-    "static/js/main.ea36b719.js"
+    "static/js/main.9f913602.js"
   ]
 }
